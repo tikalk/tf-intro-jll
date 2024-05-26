@@ -27,4 +27,3 @@ Terraform providers are the interface terraform uses in order to control the pro
 - [Create ec2 instance via utility module](https://github.com/tikalk/tf-intro-jll/blob/main/exercises/aws/02-ec2-ami-module.md)
 - [Create ec2 instance via terraform registry modules](https://github.com/tikalk/tf-intro-jll/blob/main/exercises/aws/03-ec2-instance-solution-via-registry.md)
 
-### Gitlab provider Labs
