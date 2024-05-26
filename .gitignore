@@ -1,0 +1,11 @@
+.env
+.terraform
+tfplan
+
+# training repo ...
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+terraform.*.tfvars
+.tmp*
